@@ -25,3 +25,5 @@ Database
 You need to create a database that contains at least a table to store the information in input to the webpage
  
 You need to submit your web application in one or more .php files. No other format are allowed.
+
+NOTE: copy right is reserved for Yunlin Xie, please do not use my code for your personal course assignments.
